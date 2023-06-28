@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IiCOgEUdicblX56ak0FnMf+JYSwBZY+sUhiLrLglDJ0/1f4sxrhCnRD5y57bDZF5j0hLwdY2/thyNpUKKSxZVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\inter\\Documents\\Projects\\C#\\Main Projects\\WeatherProject\\WeatherProject\\WeatherProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\inter\\.nuget\\packages\\csvhelper\\30.0.0\\csvhelper.30.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
